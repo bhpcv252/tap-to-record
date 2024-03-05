@@ -1,4 +1,4 @@
-# Tap to record random sentences - JavaScript React Component
+# Interactive Sentence Recorder - JavaScript React Component
 
 Prototype for capturing and storing spoken sentences, utilizing API requests to save the audio data to the backend.
 
